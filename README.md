@@ -1,8 +1,6 @@
 # ✨ Hey there! I'm Ashraf Hossain ✨
 
-<p align="center">
-  <img src="https://placehold.co/900x300/2d3748/edf2f7?text=🚀+Full+Stack+Maestro+🚀" alt="Cool Developer Banner">
-</p>
+
 
 <p align="center">
   <em>A passionate Full-Stack Developer crafting awesome digital experiences. <br> Turning caffeine into code, one line at a time! ☕</em>
@@ -17,7 +15,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
-*(This cool snake animation requires a GitHub Action to update daily. See [platane/snk](https://github.com/Platane/snk) for setup! Replace the URLs above with yours after setup.)*
+
 
 Hey! I'm a Full-Stack Developer who loves diving deep into both the frontend magic and the backend logic. Building seamless, efficient, and user-friendly applications is my jam.
 
@@ -55,7 +53,6 @@ My toolbox is always expanding! Here are some of the technologies I wield:
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/></a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
   <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>
   </p>
@@ -120,7 +117,7 @@ My toolbox is always expanding! Here are some of the technologies I wield:
 Find me on the web:
 
 <p align="center">
-  <a href="https://linkedin.com/in/[Your LinkedIn Username]" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/ashraf-hossain-718946307/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://twitter.com/[Your Twitter Handle]" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
   <a href="mailto:[Your Email Address]" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
   <a href="[Your Portfolio/Website Link]" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-%23000000?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio"></a>
