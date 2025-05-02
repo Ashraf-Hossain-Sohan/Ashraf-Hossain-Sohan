@@ -79,8 +79,6 @@ My toolbox is always expanding! Here are some of the technologies I wield:
 
 ## 📊 My GitHub Stats & Activity
 
-*(Replace `[Your GitHub Username]` with your actual username)*
-
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ashraf-Hossain-Sohan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashraf-Hossain-Sohan&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
