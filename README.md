@@ -26,8 +26,8 @@ Hey! I'm a Full-Stack Developer who loves diving deep into both the frontend mag
 * 🚀 **Currently Exploring:** Diving into the world of `[e.g., WebAssembly, Rust, AI/ML Integration]`. Always learning!
 * 🤝 **Collaboration:** Open to collaborating on innovative open-source projects or exciting full-stack opportunities. Let's build something amazing together!
 * 🤔 **Ask Me About:** Anything related to `[e.g., MERN/MEAN/MEVN stack, Microservices, Database Design, Specific Frameworks]`.
-* 📫 **Get In Touch:** Drop me a line at `[Your Email Address]` or find me on social media below!
-* ⚡ **Fun Fact:** `[Insert a unique and fun fact about yourself here!]`
+* 📫 **Get In Touch:** Drop me a line at `ashrafhossainsohan@gmail.com` or find me on social media below!
+
 
 ---
 
