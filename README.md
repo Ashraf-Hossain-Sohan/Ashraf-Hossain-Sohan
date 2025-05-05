@@ -95,7 +95,7 @@ My toolbox is always expanding! Here are some of the technologies I wield:
 ## 🚀 Current Projects / Pinned Repositories
 
 <details>
- <summary>Click to see some of my work!</summary>
+ <summary>Click to see some of my work! Coming soon </summary>
 
   <a href="https://github.com/[Your GitHub Username]/[Repo Name 1]">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=[Your GitHub Username]&repo=[Repo Name 1]&theme=tokyonight" />
